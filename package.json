@@ -10,9 +10,9 @@
     "test": "jest"
   },
   "devDependencies": {
-    "@types/jest": "^29.5.13",
-    "ts-jest": "^29.2.5",
-    "typescript": "^5.5.3",
-    "vite": "^5.4.8"
+    "@types/jest": "^29.5.14",
+    "ts-jest": "^29.3.4",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
   }
 }
